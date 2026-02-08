@@ -7,7 +7,6 @@ TagManager:
   - Undefined
   - Bullet
   - Planet
-  - bullet
   - PlayerRay
   layers:
   - Default
@@ -16,7 +15,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Player
   - Enemy
   - 
   - 

@@ -20,7 +20,7 @@ public class EnemyScript : MonoBehaviour
         }
     }
 
-    void TakeDamage(int damage)
+    public void TakeDamage(int damage)
     {
         currentHealth -= damage;
         Debug.Log("Enemy bị bắn! Máu còn: " + currentHealth);
